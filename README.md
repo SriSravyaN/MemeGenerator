@@ -1,4 +1,4 @@
-# Meme Generator
+# Meme Generator using ReactJs
 
 Quick start:
 
